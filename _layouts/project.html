@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  
+  {% if page.image %}
+    <a href="{{ page.image | prepend: site.baseurl }}" class="thumbnail feature">
+      <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.caption }}">
+    </a>
+  {% endif %}
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
