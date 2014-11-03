@@ -2,7 +2,7 @@
 layout: page
 ---
 <a href="{{ "img/headshot.jpg" | prepend: site.baseurl }}" class="thumbnail feature">
-   <img src="{{ "img/headshot.jpg" | prepend: site.baseurl }}" alt="Tim Wisniewski">
+  <img src="{{ "img/headshot.jpg" | prepend: site.baseurl }}" alt="Tim Wisniewski">
 </a>
 Tim Wisniewski is the Chief Data Officer for the City of Philadelphia, where he works with City departments to enhance open government and civic engagement by publishing government data online. Previously, Tim served as the Director of Civic Technology, where he managed projects that connect citizens to government, like the [Philly311 Mobile App](http://www.phila.gov/311/mobileapp.html) and [myPhillyRising.com](http://myphillyrising.com).
 
