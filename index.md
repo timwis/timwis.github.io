@@ -3,6 +3,7 @@ layout: page
 published: true
 ---
 
+
 <a href="{{ "img/headshot.jpg" | prepend: site.baseurl }}" class="thumbnail feature">
   <img src="{{ "img/headshot.jpg" | prepend: site.baseurl }}" alt="Tim Wisniewski">
 </a>
@@ -10,7 +11,7 @@ Tim Wisniewski is the Chief Data Officer for the City of Philadelphia, where he 
 
 As Chief Data Officer, Wisniewski and his team have helped departments release over [200 open data sets](http://www.phila.gov/data/census/) and increase transparency around [city contracts](http://www.phila.gov/contracts/data), [property taxes](https://alpha.phila.gov/property/data/?resource=datalens), [parking tickets](https://data.phila.gov/view/hc2b-xbvz), and the [city budget](http://www.phila.gov/openbudget). By creating formal channels for communities to participate in data release prioritization and interactive visualizations to reach more residents, Philadelphia has become a national leader in the open data movement. Wisniewski also helped assemble a stellar team of local civic-minded technologists to create the [best government website](https://alpha.phila.gov/posts/tech/2015-12-23-intro-to-alpha-why-redesign-phila-gov/) in the country, driven by user needs.
 
-Before joining the Administration in January 2012, Tim was the Executive Director of the [Frankford Special Services District](http://en.wikipedia.org/wiki/Frankford_Special_Services_District_of_Philadelphia), where he led efforts to revitalize the Frankford Avenue Business Corridor through public safety and beautification projects. As President of the 24th Police District Advisory Council, he also helped to form [Somerset Neighbors]({{ site.baseurl }}/projects/somerset-neighbors), a civic association in Kensington.
+Before joining the Nutter Administration in January 2012, Tim was the Executive Director of the [Frankford Special Services District](http://en.wikipedia.org/wiki/Frankford_Special_Services_District_of_Philadelphia), where he led efforts to revitalize the Frankford Avenue Business Corridor through public safety and beautification projects. As President of the 24th Police District Advisory Council, he also helped to form [Somerset Neighbors]({{ site.baseurl }}/projects/somerset-neighbors), a civic association in Kensington.
 
 A Philadelphia native, Tim is a graduate of Richmond, the American International University in London. He enjoys attending weekly [Code for Philly](http://codeforphilly.org) hackathons and taking his dog, [Decaf]({{ "img/decaf.jpg" | prepend: site.baseurl }}), to the dog park near his northern liberties home.
 
