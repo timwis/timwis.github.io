@@ -1,10 +1,6 @@
 ---
-layout: project
 title: Frankford Safety Ambassadors
-permalink: /projects/safety-ambassadors/
 image: /img/ambassadors.jpg
-caption: Safety Ambassadors meet Mayor Nutter
-resource: true
 ---
 As Executive Director of the Frankford Special Services District, I was tasked with creating and funding a Safety Ambassador program for Frankford Avenue, providing uniformed personnel patrolling the business corridor interacting with shoppers, checking in with businesses, and liaising with the local Police District.
 

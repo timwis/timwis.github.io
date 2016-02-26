@@ -12,7 +12,14 @@ Before joining the Nutter Administration in January 2012, Tim was the Executive 
 
 A Philadelphia native, Tim is a graduate of Richmond, the American International University in London. He enjoys attending weekly [Code for Philly](http://codeforphilly.org) hackathons and taking his dog, [Decaf]({{ "img/decaf.jpg" | prepend: site.baseurl }}), to the dog park near his northern liberties home.
 
-<p><a class="twitter-timeline" href="https://twitter.com/timwis" data-widget-id="352484673072541697">Tweets by @timwis</a><br />
-<script>// <![CDATA[
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-// ]]&gt;</script></p>
+<p>
+  <a class="twitter-timeline"
+    href="https://twitter.com/timwis"
+    data-widget-id="352484673072541697"
+    data-chrome="transparent noborders nofooter">
+  Tweets by @timwis
+  </a><br />
+  <script>// <![CDATA[
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+  // ]]&gt;</script>
+</p>

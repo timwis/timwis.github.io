@@ -1,10 +1,6 @@
 ---
-layout: project
 title: Analyze the Vote
-permalink: /projects/analyze-the-vote/
 image: /img/analyzethevote.jpg
-caption: Analyze the Vote
-resource: true
 ---
 Serving on the new City Commissioners Transition Team, I used public election data to build vote analytics tools including maps and scatter plots that show voter turnout, along with where candidates’ support came from.
 

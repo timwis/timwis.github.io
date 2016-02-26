@@ -1,10 +1,6 @@
 ---
-layout: project
 title: PhillySNAP
-permalink: /projects/philly-snap/
 image: /img/phillysnap.png
-caption: PhillySNAP Web Site
-resource: true
 ---
 A product of Random Hacks of Kindness hackathon, PhillySNAP allows users to text their street address to 267-293-9387 to find the nearest SNAP/Food Stamp-accepting Farmers Market, and the closest two SNAP-participating healthy corner stores. We partnered with the Food Trust to advertise the program on pamphlets being distributed to welfare recipients.
 

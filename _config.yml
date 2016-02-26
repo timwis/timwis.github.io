@@ -3,9 +3,19 @@ title: Tim Wisniewski
 email: tim@timwis.com
 description: Chief Data Officer for the City of Philadelphia
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://timwis.com" # the base hostname & protocol for your site
-twitter_username: timwis
-github_username:  timwis
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
 
 # Build settings
 markdown: kramdown
