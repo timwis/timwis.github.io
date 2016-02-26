@@ -1,6 +1,8 @@
 ---
 title: Analyze the Vote
 image: /img/analyzethevote.jpg
+tags:
+  - Software
 ---
 Serving on the new City Commissioners Transition Team, I used public election data to build vote analytics tools including maps and scatter plots that show voter turnout, along with where candidates’ support came from.
 

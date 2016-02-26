@@ -1,6 +1,8 @@
 ---
 title: Frankford Safety Ambassadors
 image: /img/ambassadors.jpg
+tags:
+  - Community
 ---
 As Executive Director of the Frankford Special Services District, I was tasked with creating and funding a Safety Ambassador program for Frankford Avenue, providing uniformed personnel patrolling the business corridor interacting with shoppers, checking in with businesses, and liaising with the local Police District.
 

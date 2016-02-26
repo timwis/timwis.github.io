@@ -5,7 +5,9 @@ layout: default
   <section class="post">
     <header class="post-header">
         <h2 class="post-title">{{ page.title }}</h2>
-        {% if page.subtitle %}<p class="post-meta">{{ page.subtitle }}</p>{% endif %}
+        {% if page.tags %}
+          <p class="post-meta">Posted in {{ page.tags | array_to_sentence_string }}</p>
+        {% endif %}
     </header>
 
     <div class="post-description">
