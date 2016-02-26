@@ -1,8 +1,7 @@
 # Site settings
 title: Tim Wisniewski
 email: tim@timwis.com
-description: > # this means to ignore newlines until "baseurl:"
-  Tim Wisniewski is the Chief Data Officer for the City of Philadelphia
+description: Chief Data Officer for the City of Philadelphia
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://timwis.com" # the base hostname & protocol for your site
 twitter_username: timwis

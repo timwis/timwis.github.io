@@ -4,9 +4,6 @@ published: true
 ---
 
 
-<a href="{{ "img/headshot.jpg" | prepend: site.baseurl }}" class="thumbnail feature">
-  <img src="{{ "img/headshot.jpg" | prepend: site.baseurl }}" alt="Tim Wisniewski">
-</a>
 Tim Wisniewski is the Chief Data Officer for the City of Philadelphia, where he and his team work with City departments to enhance transparency and civic engagement by publishing government [data](http://www.phila.gov/data "Open Data Initiative") online, building [websites](https://alpha.phila.gov/about/ "About the Phila.gov Website Redesign") and digital services.
 
 As Chief Data Officer, Wisniewski and his team have helped departments release over [200 open data sets](http://www.phila.gov/data/census/) and increase transparency around [city contracts](http://www.phila.gov/contracts/data), [property taxes](https://alpha.phila.gov/property/data/?resource=datalens), [parking tickets](https://data.phila.gov/view/hc2b-xbvz), and the [city budget](http://www.phila.gov/openbudget). By creating formal channels for communities to participate in data release prioritization and interactive visualizations to reach more residents, Philadelphia has become a national leader in the open data movement. Wisniewski also helped assemble a stellar team of local civic-minded technologists to create the [best government website](https://alpha.phila.gov/posts/tech/2015-12-23-intro-to-alpha-why-redesign-phila-gov/) in the country, driven by user needs.
