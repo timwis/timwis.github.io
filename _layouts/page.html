@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="posts">
+  <section class="post">
+    <header class="post-header">
+        <h2 class="post-title">{{ page.title }}</h2>
+        {% if page.subtitle %}<p class="post-meta">{{ page.subtitle }}</p>{% endif %}
+    </header>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+    <div class="post-description">
+      <p>{{ content }}</p>
+    </div>
+  </section>
 </div>

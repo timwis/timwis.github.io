@@ -4,21 +4,23 @@ title: Projects
 permalink: /projects/
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Projects</h1>
-
-  <ul class="post-list">
-    {% for page in site.pages %}
-      {% if page.resource == true %}
-          <li>
-            <h2>
-              <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            </h2>
-            {{ page.content | truncatewords 5 }}
-          </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
+<div class="posts">
+  <h1 class="content-subhead">Projects</h1>
 </div>
+
+{% for project in site.pages %}
+  {% if project.resource == true %}
+    <div class="posts">
+      <section class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h2>
+            {% if project.subtitle %}<p class="post-meta">{{ project.subtitle }}</p>{% endif %}
+        </header>
+
+        <div class="post-description">
+          <p>{{ project.content | truncate: 200, "..." }}</p>
+        </div>
+      </section>
+    </div>
+  {% endif %}
+{% endfor %}
