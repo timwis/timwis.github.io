@@ -22,10 +22,27 @@ permalink: /projects/
       <div class="post-description">
         <p>
           {% if project.image %}
+            {% if project.links %}
+              {% assign link = project.links[0] %}
+              <a href="{{ link.url }}">
+            {% endif %}
             <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}" class="thumbnail pure-hidden-xs">
+            {% if project.links %}
+              </a>
+            {% endif %}
           {% endif %}
 
           {{ project.content }}
+          
+          {% if project.links %}
+            <ul>
+            {% for link in project.links %}
+              <li>
+                <a href="{{ link.url }}">{{ link.text }}</a>{% if link.suffix %}, {{ link.suffix }}{% endif %}
+              </li>
+            {% endfor %}
+            </ul>
+          {% endif %}
         </p>
       </div>
     </section>
