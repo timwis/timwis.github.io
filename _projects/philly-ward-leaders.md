@@ -1,6 +1,7 @@
 ---
 title: Philly Ward Leaders
 image: /img/philly-ward-leaders.png
+date: 2015-04-01
 tags:
   - Software
 ---

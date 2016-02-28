@@ -1,6 +1,7 @@
 ---
 title: Analyze the Vote
 image: /img/analyzethevote.jpg
+date: 2011-12-01
 tags:
   - Software
 ---

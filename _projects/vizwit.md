@@ -1,6 +1,7 @@
 ---
 title: VizWit
 image: /img/vizwit.gif
+date: 2016-01-01
 tags:
   - Software
 ---

@@ -6,9 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Collections
 collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  - projects
 
 defaults:
   - scope:

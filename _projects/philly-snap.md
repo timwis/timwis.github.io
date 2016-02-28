@@ -1,6 +1,7 @@
 ---
 title: PhillySNAP
 image: /img/phillysnap.png
+date: 2011-06-01
 tags:
   - Software
 ---

@@ -1,6 +1,7 @@
 ---
 title: JKAN
 image: /img/jkan.png
+date: 2016-02-01
 tags:
   - Software
 ---

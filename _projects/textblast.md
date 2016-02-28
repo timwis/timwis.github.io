@@ -1,6 +1,7 @@
 ---
 title: TextBlast
 image: /img/textblast.png
+date: 2012-05-01
 tags:
   - Software
   - Community

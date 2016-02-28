@@ -8,13 +8,14 @@ permalink: /projects/
   <h1 class="content-subhead">Projects</h1>
 </div>
 
-{% for project in site.projects %}
+{% assign projects = site.projects | sort:'date' %}
+{% for project in projects reversed %}
   <div class="posts">
     <section class="post">
       <header class="post-header">
           <h2 class="post-title">{{ project.title }}</h2>
           {% if project.tags %}
-            <p class="post-meta">Posted in {{ project.tags | array_to_sentence_string }}</p>
+            <p class="post-meta">Posted in {{ project.date | date: '%B %Y' }} in {{ project.tags | array_to_sentence_string }}</p>
           {% endif %}
       </header>
 

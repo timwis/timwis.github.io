@@ -1,6 +1,7 @@
 ---
 title: Frankford Safety Ambassadors
 image: /img/ambassadors.jpg
+date: 2010-07-01
 tags:
   - Community
 ---
