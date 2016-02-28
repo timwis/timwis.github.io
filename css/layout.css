@@ -177,6 +177,7 @@ h3 {
 .thumbnail {
   max-width: 250px;
   max-height: 250px;
+  padding: 10px;
   float: right;
 }
 
