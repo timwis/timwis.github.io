@@ -184,3 +184,17 @@ h3 {
 @media screen and (max-width:35.438em) {
   .pure-hidden-xs{display:none}
 }
+
+/* http://ben.balter.com/2014/03/13/pages-anchor-links/ */
+.header-link {
+  opacity: 0;
+  font-size: 80%;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
+}

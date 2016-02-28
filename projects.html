@@ -13,7 +13,10 @@ permalink: /projects/
   <div class="posts">
     <section class="post">
       <header class="post-header">
-          <h2 class="post-title">{{ project.title }}</h2>
+          <h2 class="post-title" id="{{ project.slug }}">
+            {{ project.title }}
+            <a href="#{{ project.slug }}" class="header-link"><i class="fa fa-link"></i></a>
+          </h2>
           {% if project.tags %}
             <p class="post-meta">Posted in {{ project.date | date: '%B %Y' }} in {{ project.tags | array_to_sentence_string }}</p>
           {% endif %}
