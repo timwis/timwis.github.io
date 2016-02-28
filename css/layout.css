@@ -163,7 +163,7 @@ h3 {
     }
 
     .header {
-        margin: 80% 2em 0;
+        margin: 60% 2em 0;
         text-align: right;
     }
 
@@ -178,4 +178,8 @@ h3 {
   max-width: 250px;
   max-height: 250px;
   float: right;
+}
+
+@media screen and (max-width:35.438em) {
+  .pure-hidden-xs{display:none}
 }
