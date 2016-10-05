@@ -6,7 +6,7 @@ tags:
   - Software
 links:
   - text: Demo
-    url: http://timwis.com/jkan
+    url: https://demo.jkan.io
   - text: Source code
     url: https://github.com/timwis/jkan
 ---
