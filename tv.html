@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="posts">
+  <h1 class="content-subhead">TV Shows</h1>
+</div>
+
+<p>I quite enjoy good television shows. Some of them so much that I recommend them
+to others. I'm very selective about my recommendations, so the list below
+represents only "hands down" great television shows.</p>
+
+<p>Having seen my favorite shows, is there a show you think I'd like?
+<a href="mailto:tim@timwis.com">Let me know</a>!</p>
+
+{% assign shows = site.data.shows | sort: 'title' %}
+<div class="pure-g">
+  {% for show in shows %}
+
+  <div class="pure-u-1-2 pure-u-lg-1-3">
+    <div class="show-thumbnail">
+      <a href="{{ show.url }}">
+        <img class="pure-img" src="{{ show.thumbnail }}" alt="{{ show.title }}" />
+      </a>
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
