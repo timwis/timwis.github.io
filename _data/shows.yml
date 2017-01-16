@@ -1,114 +1,114 @@
 - title: Fargo
   url: https://www.themoviedb.org/tv/60622-fargo
-  thumbnail: https://image.tmdb.org/t/p/w640/r08vuxHlNIAQitDvSN8CeOtx8wD.jpg
+  thumbnail: fargo.jpg
 
 - title: The Wire
   url: https://www.themoviedb.org/tv/1438-the-wire
-  thumbnail: https://image.tmdb.org/t/p/w640/dg7NuKDjmS6OzuNy33qt8kSkPA1.jpg
+  thumbnail: the-wire.jpg
 
 - title: Oz
   url: https://www.themoviedb.org/tv/3322-oz
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/4TrBnFhDfF75HltQjAZmNhMpRZk.jpg
+  thumbnail: oz.jpg
 
 - title: Narcos
   url: https://www.themoviedb.org/tv/63351-narcos
-  thumbnail: https://image.tmdb.org/t/p/w640/rXMTX53eQl83qcD5CPbqeit5O91.jpg
+  thumbnail: narcos.jpg
 
 - title: Utopia
   url: https://www.themoviedb.org/tv/46511-utopia
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/vZzD8sk9f9L2p1Xih20g3lXzKmO.jpg
+  thumbnail: utopia.jpg
 
 - title: The Shield
   url: https://www.themoviedb.org/tv/1414-the-shield
-  thumbnail: https://image.tmdb.org/t/p/w640/i69glUtJ1l8CgZRe5tQEyI4xm8d.jpg
+  thumbnail: the-shield.jpg
 
 - title: Boss
   url: https://www.themoviedb.org/tv/38922-boss
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/fSb38oX8BLAUW9CyEPGStajik08.jpg
+  thumbnail: boss.jpg
 
 - title: Battlestar Galactica
   url: https://www.themoviedb.org/tv/1972-battlestar-galactica
-  thumbnail: https://image.tmdb.org/t/p/w640/5U1H200RmtTYClTmufARuSNDc0K.jpg
+  thumbnail: battlestar-galactica.jpg
 
 - title: Over There
   url: https://www.themoviedb.org/tv/4564-over-there
-  thumbnail: https://image.tmdb.org/t/p/w640/6MJlpY2lISbMWs8bbZLvsFRTeqL.jpg
+  thumbnail: over-there.jpg
 
 - title: The Sopranos
   url: https://www.themoviedb.org/tv/1398-the-sopranos
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/u0cLcBQITrYqfHsn06fxnQwtqiE.jpg
+  thumbnail: the-sopranos.jpg
 
 - title: Homeland
   url: https://www.themoviedb.org/tv/1407-homeland
-  thumbnail: https://image.tmdb.org/t/p/w640/dYNHueCOQyjpId3DZkMQaEKuTkb.jpg
+  thumbnail: homeland.jpg
 
 - title: Band of Brothers
   url: https://www.themoviedb.org/tv/4613-band-of-brothers
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/bUrt6oeXd04ImEwQjO9oLjRguaA.jpg
+  thumbnail: band-of-brothers.jpg
 
 - title: Game of Thrones
   url: https://www.themoviedb.org/tv/1399-game-of-thrones
-  thumbnail: https://image.tmdb.org/t/p/w640/hDd5Zd9VMOqBeHa2agbnHZ98WWr.jpg
+  thumbnail: game-of-thrones.jpg
 
 - title: Billions
   url: https://www.themoviedb.org/tv/62852-billions
-  thumbnail: https://image.tmdb.org/t/p/w640/nqgBmt4wtNNde7Ce22KqGJGM1pF.jpg
+  thumbnail: billions.jpg
 
 - title: Flaked
   url: https://www.themoviedb.org/tv/65315-flaked
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/rifljD4tARk4DG5EBz2VwbmkcUv.jpg
+  thumbnail: flaked.jpg
 
 - title: House of Cards
   url: https://www.themoviedb.org/tv/1425-house-of-cards
-  thumbnail: https://image.tmdb.org/t/p/w640/vElcAcOzjnfqIjv2i8a69A047z0.jpg
+  thumbnail: house-of-cards.jpg
 
 - title: Mr. Robot
   url: https://www.themoviedb.org/tv/62560-mr-robot
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/esN3gWb1P091xExLddD2nh4zmi3.jpg
+  thumbnail: mr-robot.jpg
 
 - title: Stranger Things
   url: https://www.themoviedb.org/tv/66732-stranger-things
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/esKFbCWAGyUUNshT5HE5BIpvbcL.jpg
+  thumbnail: stranger-things.jpg
 
 - title: The Walking Dead
   url: https://www.themoviedb.org/tv/1402-the-walking-dead
-  thumbnail: https://image.tmdb.org/t/p/w640/48SObcY3kYvZLFzdqiSXuzNtBMu.jpg
+  thumbnail: the-walking-dead.jpg
 
 - title: The Newsroom
   url: https://www.themoviedb.org/tv/15621-the-newsroom
-  thumbnail: https://image.tmdb.org/t/p/w640/huOYIzCPDul69lO6R9wxKgCWyCM.jpg
+  thumbnail: the-newsroom.jpg
 
 - title: Parks & Recreation
   url: https://www.themoviedb.org/tv/8592-parks-and-recreation
-  thumbnail: https://image.tmdb.org/t/p/w640/nxevAIZdQGqbPBkk2EdIX0A20Gd.jpg
+  thumbnail: parks-recreation.jpg
   genre: comedy
 
 - title: New Girl
   url: https://www.themoviedb.org/tv/1420-new-girl
-  thumbnail: https://image.tmdb.org/t/p/w640/pioQMp8O3ScJCYqoAmabSJz32Dy.jpg
+  thumbnail: new-girl.jpg
   genre: comedy
 
 - title: Broad City
   url: https://www.themoviedb.org/tv/60839-broad-city
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/beHqsOssWItXfxE8pxvj46ONruR.jpg
+  thumbnail: broad-city.jpg
   genre: comedy
 
 - title: BoJack Horseman
   url: https://www.themoviedb.org/tv/61222-bojack-horseman
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/1bnrSsJNejoQq8lGBDECQroGjPz.jpg
+  thumbnail: bojack-horseman.jpg
   genre: comedy
 
 - title: It's Always Sunny in Philadelphia
   url: https://www.themoviedb.org/tv/2710-it-s-always-sunny-in-philadelphia
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/4wgiRF7KwCkADnNaAOQV4RldrhR.jpg
+  thumbnail: it-s-always-sunny-in-philadelphia.jpg
   genre: comedy
 
 - title: Veep
   url: https://www.themoviedb.org/tv/2947-veep
-  thumbnail: https://image.tmdb.org/t/p/w300_and_h450_bestv2/ee4A1Hpu3ywuiG7S8bv4BzNIbPN.jpg
+  thumbnail: veep.jpg
   genre: comedy
 
 - title: Louie
   url: https://www.themoviedb.org/tv/32962-louie
-  thumbnail: https://image.tmdb.org/t/p/w640/uusvRCUUiZLaegM65hUsapeN2RJ.jpg
+  thumbnail: louie.jpg
   genre: comedy

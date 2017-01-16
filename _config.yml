@@ -4,6 +4,9 @@ email: tim@timwis.com
 description: Chief Data Officer for the City of Philadelphia
 baseurl: "" # the subpath of your site, e.g. /blog/
 
+exclude:
+  - data-scripts
+
 # Collections
 collections:
   - projects
