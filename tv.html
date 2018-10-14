@@ -17,7 +17,7 @@ represents only "hands down" great television shows.</p>
 {% assign shows = site.data.shows | sort: 'title' %}
 <div class="pure-g">
   {% for show in shows %}
-  {% capture thumbnail %}{{ site.baseurl }}/img/shows/{{ show.thumbnail }}{% endcapture %}
+  {% capture thumbnail %}https://image.tmdb.org/t/p/w342/{{ show.tvdb_thumbnail }}.jpg{% endcapture %}
 
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <div class="show-thumbnail">

@@ -1,114 +1,114 @@
 - title: Fargo
   url: https://www.themoviedb.org/tv/60622-fargo
-  thumbnail: fargo.jpg
+  tvdb_thumbnail: r08vuxHlNIAQitDvSN8CeOtx8wD
 
 - title: The Wire
   url: https://www.themoviedb.org/tv/1438-the-wire
-  thumbnail: the-wire.jpg
+  tvdb_thumbnail: 1xDMEzfvZIgmLcbt9itBDMGsSHt
 
 - title: Oz
   url: https://www.themoviedb.org/tv/3322-oz
-  thumbnail: oz.jpg
+  tvdb_thumbnail: CwqqwYWnMOLUwsqAqveHNnwTGC
 
 - title: Narcos
   url: https://www.themoviedb.org/tv/63351-narcos
-  thumbnail: narcos.jpg
+  tvdb_thumbnail: rXMTX53eQl83qcD5CPbqeit5O91
 
 - title: Utopia
   url: https://www.themoviedb.org/tv/46511-utopia
-  thumbnail: utopia.jpg
+  tvdb_thumbnail: vZzD8sk9f9L2p1Xih20g3lXzKmO
 
 - title: The Shield
   url: https://www.themoviedb.org/tv/1414-the-shield
-  thumbnail: the-shield.jpg
+  tvdb_thumbnail: AfdZXqqlFsPUEfi6kWWWthxw7Nz
 
 - title: Boss
   url: https://www.themoviedb.org/tv/38922-boss
-  thumbnail: boss.jpg
+  tvdb_thumbnail: 7d1hF04puP1045WLa0qN8Zobbtu
 
 - title: Battlestar Galactica
   url: https://www.themoviedb.org/tv/1972-battlestar-galactica
-  thumbnail: battlestar-galactica.jpg
+  tvdb_thumbnail: 5U1H200RmtTYClTmufARuSNDc0K
 
 - title: Over There
   url: https://www.themoviedb.org/tv/4564-over-there
-  thumbnail: over-there.jpg
+  tvdb_thumbnail: gXD58x0sDndQlKaXgXb48buUqTt
 
 - title: The Sopranos
   url: https://www.themoviedb.org/tv/1398-the-sopranos
-  thumbnail: the-sopranos.jpg
+  tvdb_thumbnail: u0cLcBQITrYqfHsn06fxnQwtqiE
 
 - title: Homeland
   url: https://www.themoviedb.org/tv/1407-homeland
-  thumbnail: homeland.jpg
+  tvdb_thumbnail: iQXxNET0AY07ulvZyhrrKlhAjXI
 
 - title: Band of Brothers
   url: https://www.themoviedb.org/tv/4613-band-of-brothers
-  thumbnail: band-of-brothers.jpg
+  tvdb_thumbnail: yjqu0KEVAWz9eJQBvzrQMFlGD84
 
 - title: Game of Thrones
   url: https://www.themoviedb.org/tv/1399-game-of-thrones
-  thumbnail: game-of-thrones.jpg
+  tvdb_thumbnail: hDd5Zd9VMOqBeHa2agbnHZ98WWr
 
 - title: Billions
   url: https://www.themoviedb.org/tv/62852-billions
-  thumbnail: billions.jpg
+  tvdb_thumbnail: nqgBmt4wtNNde7Ce22KqGJGM1pF
 
 - title: Flaked
   url: https://www.themoviedb.org/tv/65315-flaked
-  thumbnail: flaked.jpg
+  tvdb_thumbnail: rifljD4tARk4DG5EBz2VwbmkcUv
 
 - title: House of Cards
   url: https://www.themoviedb.org/tv/1425-house-of-cards
-  thumbnail: house-of-cards.jpg
+  tvdb_thumbnail: hKWxWjFwnMvkWQawbhvC0Y7ygQ8
 
 - title: Mr. Robot
   url: https://www.themoviedb.org/tv/62560-mr-robot
-  thumbnail: mr-robot.jpg
+  tvdb_thumbnail: jpV5GWRe0hjZBbx1kPFISvH8QxI
 
 - title: Stranger Things
   url: https://www.themoviedb.org/tv/66732-stranger-things
-  thumbnail: stranger-things.jpg
+  tvdb_thumbnail: esKFbCWAGyUUNshT5HE5BIpvbcL
 
 - title: The Walking Dead
   url: https://www.themoviedb.org/tv/1402-the-walking-dead
-  thumbnail: the-walking-dead.jpg
+  tvdb_thumbnail: 48SObcY3kYvZLFzdqiSXuzNtBMu
 
 - title: The Newsroom
   url: https://www.themoviedb.org/tv/15621-the-newsroom
-  thumbnail: the-newsroom.jpg
+  tvdb_thumbnail: huOYIzCPDul69lO6R9wxKgCWyCM
 
 - title: Parks & Recreation
   url: https://www.themoviedb.org/tv/8592-parks-and-recreation
-  thumbnail: parks-recreation.jpg
+  tvdb_thumbnail: bHk5mL1upPFaxWxXbs9ihQDFoXY
   genre: comedy
 
 - title: New Girl
   url: https://www.themoviedb.org/tv/1420-new-girl
-  thumbnail: new-girl.jpg
+  tvdb_thumbnail: 8oCqMlKKomCArVtyOjRzMN6g40Z
   genre: comedy
 
 - title: Broad City
   url: https://www.themoviedb.org/tv/60839-broad-city
-  thumbnail: broad-city.jpg
+  tvdb_thumbnail: beHqsOssWItXfxE8pxvj46ONruR
   genre: comedy
 
 - title: BoJack Horseman
   url: https://www.themoviedb.org/tv/61222-bojack-horseman
-  thumbnail: bojack-horseman.jpg
+  tvdb_thumbnail: 1bnrSsJNejoQq8lGBDECQroGjPz
   genre: comedy
 
 - title: It's Always Sunny in Philadelphia
   url: https://www.themoviedb.org/tv/2710-it-s-always-sunny-in-philadelphia
-  thumbnail: it-s-always-sunny-in-philadelphia.jpg
+  tvdb_thumbnail: 4wgiRF7KwCkADnNaAOQV4RldrhR
   genre: comedy
 
 - title: Veep
   url: https://www.themoviedb.org/tv/2947-veep
-  thumbnail: veep.jpg
+  tvdb_thumbnail: ee4A1Hpu3ywuiG7S8bv4BzNIbPN
   genre: comedy
 
 - title: Louie
   url: https://www.themoviedb.org/tv/32962-louie
-  thumbnail: louie.jpg
+  tvdb_thumbnail: uusvRCUUiZLaegM65hUsapeN2RJ
   genre: comedy
