@@ -112,3 +112,45 @@
   url: https://www.themoviedb.org/tv/32962-louie
   tvdb_thumbnail: uusvRCUUiZLaegM65hUsapeN2RJ
   genre: comedy
+
+- title: Bodyguard
+  url: https://www.themoviedb.org/tv/80307-bodyguard
+  tvdb_thumbnail: 5DUJTrHTRLHLCKWriPhdusQogAv
+
+- title: Legion
+  url: https://www.themoviedb.org/tv/67195-legion
+  tvdb_thumbnail: zvyA5E4YxQw79gX0hzZ2pQKJpKy
+
+- title: Lovesick
+  url: https://www.themoviedb.org/tv/62668-lovesick
+  tvdb_thumbnail: 7Bq7NSAGA1HQBQbVkyDPNEpjm2O
+
+- title: Atlanta
+  url: https://www.themoviedb.org/tv/65495-atlanta
+  tvdb_thumbnail: lbE138t2eSyVohab6i91OBGbPgC
+
+- title: Barry
+  url: https://www.themoviedb.org/tv/73107-barry
+  tvdb_thumbnail: tu7wAI662scjgxMpV3fiedAZiym
+  genre: comedy
+
+- title: Killing Eve
+  url: https://www.themoviedb.org/tv/72750-killing-eve
+  tvdb_thumbnail: m7erjnrcoJD7sBrNZmQ6rpIYZI4
+
+- title: This Is Us
+  url: https://www.themoviedb.org/tv/67136-this-is-us
+  tvdb_thumbnail: huxmY6Dmzwpv5Q2hnNft0UMK7vf
+
+- title: Silicon Valley
+  url: https://www.themoviedb.org/tv/60573-silicon-valley
+  tvdb_thumbnail: dc5r71XI1gD4YwIUoEYCLiVvtss
+  genre: comedy
+
+- title: The Handmaid's Tale
+  url: https://www.themoviedb.org/tv/69478-the-handmaid-s-tale
+  tvdb_thumbnail: 1ryCwZaZFAlG0c1w8XiMHeAxxYy
+
+- title: Southland
+  url: https://www.themoviedb.org/tv/17611-southland
+  tvdb_thumbnail: 4MdFzuIlqcyDORCW4QjbCpY18lx
