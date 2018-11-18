@@ -8,9 +8,9 @@ permalink: /projects/
   <h1 class="content-subhead">Projects</h1>
 </div>
 
-{% assign projects = site.projects | sort:'date' %}
-{% for project in projects reversed %}
-  <div class="posts">
+<div class="posts">
+{% for slug in site.data.ordered_project_slugs %}
+  {% assign project = site.projects | where: 'slug', slug | first %}
     <section class="post">
       <header class="post-header">
           <h2 class="post-title" id="{{ project.title | slugify }}">
@@ -18,36 +18,25 @@ permalink: /projects/
             <a href="#{{ project.title | slugify }}" class="header-link"><i class="fa fa-link"></i></a>
           </h2>
           {% if project.tags %}
-            <p class="post-meta">Posted in {{ project.date | date: '%B %Y' }} in {{ project.tags | array_to_sentence_string }}</p>
+            <!-- <p class="post-meta">Posted in {{ project.date | date: '%B %Y' }} in {{ project.tags | array_to_sentence_string }}</p> -->
+          {% endif %}
+
+          {% if project.role %}
+            <p class="post-meta">Role: {{ project.role }}</p>
           {% endif %}
       </header>
 
       <div class="post-description">
         <p>
           {% if project.image %}
-            {% if project.links %}
-              {% assign link = project.links[0] %}
-              <a href="{{ link.url }}">
-            {% endif %}
             <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}" class="thumbnail pure-hidden-xs">
-            {% if project.links %}
-              </a>
-            {% endif %}
           {% endif %}
 
           {{ project.content }}
-          
-          {% if project.links %}
-            <ul>
-            {% for link in project.links %}
-              <li>
-                <a href="{{ link.url }}">{{ link.text }}</a>{% if link.suffix %}, {{ link.suffix }}{% endif %}
-              </li>
-            {% endfor %}
-            </ul>
-          {% endif %}
         </p>
       </div>
     </section>
-  </div>
 {% endfor %}
+</div>
+
+<p>More projects and other open source contributions are avaialable on <a href="https://github.com/timwis">GitHub</a>.</p>
