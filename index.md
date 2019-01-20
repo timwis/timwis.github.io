@@ -3,13 +3,13 @@ layout: page
 published: true
 ---
 
-Tim Wisniewski is an eternal optimist who sees government as full of hard-working people serving a public that’s understandably skeptical because their experience of government is often confusing, time-consuming, downtown, and impersonal. In his role as Chief Data Officer for the City of Philadelphia, Tim leads the [Office of Open Data & Digital Transformation][oddt], where he gets to focus on that just that conundrum.
+Tim Wisniewski is a civic technologist who specialises in navigating bureaucracy, culture change, and outside-the-box problem solving.
 
-As Chief Data Officer, Wisniewski and his team have helped departments release over [200 open data sets][opendataphilly] and increase transparency around [city contracts][contracts], [property taxes][property-taxes], [police interactions][police-interactions], and the [city budget][budget]. To begin to build a more intuitive digital experience, he and his team have also launched the new [phila.gov][philagov], an effort to transform the City’s website around the needs of its users.
+As Chief Data Officer for the City of Philadelphia, Wisniewski and his team helped departments release over [200 open data sets][opendataphilly] and increase transparency around [city contracts][contracts], [property taxes][property-taxes], [police interactions][police-interactions], and the [city budget][budget]. In 2016, Wisniewski’s role expanded to build the new [Office of Open Data & Digital Transformation][oddt], a team of design, development, and content professionals inside government. In this capacity Wisniewski oversaw [the launch of the new phila.gov][philagov], an entirely reimagined digital front door for city government designed to make services easier to find and use.
 
-Before joining the Administration in January 2012, Tim was the Executive Director of the [Frankford Special Services District][fssd], where he led efforts to revitalize the Frankford Avenue Business Corridor through public safety and beautification projects. As President of the 24th Police District Advisory Council, he also helped to form [Somerset Neighbors][snbl], a civic association in Kensington.
+Before joining the Administration in January 2012, Tim was the Executive Director of the [Frankford Special Services District][fssd], where he led efforts to revitalize the Frankford Avenue Business Corridor through public safety and beautification projects. As President of the 24th Police District Advisory Council, he also helped to form [Somerset Neighbors][snbl], a civic association in Kensington, Philadelphia.
 
-A Philadelphia native, Tim is a graduate of Richmond, the American International University in London. He enjoys using the latest JavaScript libraries for side projects and taking his dog, [Decaf][decaf], to the dog park near his northern liberties home.
+Tim is a graduate of Richmond, the American International University in London. He enjoys using the latest JavaScript libraries for side projects, having strong opinions about [television series][tv] and spoiling his dog, [Decaf][decaf].
 
 <p>
   <a class="twitter-timeline"
@@ -23,13 +23,14 @@ A Philadelphia native, Tim is a graduate of Richmond, the American International
   // ]]&gt;</script>
 </p>
 
-[oddt]: https://technical.ly/philly/2018/08/14/city-of-philadelphia-website-out-of-beta-tim-wisniewski/
+[oddt]: https://www.phila.gov/departments/office-of-open-data-and-digital-transformation/
 [opendataphilly]: https://www.opendataphilly.org/dataset?organization=city-of-philadelphia
 [property-taxes]: https://data.phila.gov/visualizations/property-tax-balances
 [contracts]: http://www.phila.gov/contracts/data
 [police-interactions]: http://philadelphia.maps.arcgis.com/apps/MapJournal/index.html?appid=d498be2dde18426193679f5e9ce0e6e5
 [budget]: http://www.phila.gov/openbudget
-[philagov]: https://www.phila.gov
+[philagov]: https://technical.ly/philly/2018/08/14/city-of-philadelphia-website-out-of-beta-tim-wisniewski/
 [fssd]: http://en.wikipedia.org/wiki/Frankford_Special_Services_District_of_Philadelphia
-[snbl]: {{ site.baseurl }}/projects/somerset-neighbors
-[decaf]: {{ "img/decaf.jpg" | prepend: site.baseurl }}
+[snbl]: {{ site.baseurl }}/projects/#somerset-neighbors
+[tv]: {{ site.baseurl }}/tv/
+[decaf]: {{ site.baseurl }}/img/decaf.jpg
