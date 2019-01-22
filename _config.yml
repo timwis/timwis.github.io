@@ -1,7 +1,7 @@
 # Site settings
 title: Tim Wisniewski
 email: tim@timwis.com
-description: Chief Data Officer for the City of Philadelphia
+description: Civic technologist specialising in navigating bureaucracy, culture change, and outside-the-box problem solving.
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 exclude:
