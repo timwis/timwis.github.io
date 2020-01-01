@@ -20,3 +20,6 @@ defaults:
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from

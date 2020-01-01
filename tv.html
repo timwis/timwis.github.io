@@ -1,33 +1,6 @@
 ---
 layout: default
-no_header: true
 title: TV Series
 permalink: /tv/
+redirect_to: https://www.themoviedb.org/list/129009
 ---
-
-<div class="posts">
-  <h1 class="content-subhead">TV Series</h1>
-</div>
-
-<p>I quite enjoy good television series. Some of them so much that I recommend them
-to others. I'm very selective about my recommendations, so the list below
-represents only "hands down" great television series.</p>
-
-<p>Having seen my favorite series, is there a series you think I'd like?
-<a href="mailto:tim@timwis.com">Let me know</a>!</p>
-
-{% assign shows = site.data.shows | sort: 'title' %}
-<div class="pure-g">
-  {% for show in shows %}
-  {% capture thumbnail %}https://image.tmdb.org/t/p/w342/{{ show.tvdb_thumbnail }}.jpg{% endcapture %}
-
-  <div class="pure-u-1-2 pure-u-lg-1-3">
-    <div class="show-thumbnail">
-      <a href="{{ show.url }}">
-        <img class="pure-img" src="{{ thumbnail }}" alt="{{ show.title }}" />
-      </a>
-    </div>
-  </div>
-
-  {% endfor %}
-</div>
